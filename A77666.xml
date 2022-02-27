@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir James Cambels Clarks disaster, by making books, shewing that lying and scandalous pamphlets against the King and Parliament are in great estimation, but bookes of learning and religion little regarded. Exemplified in a compendious letter to Iohn Philpond in Suffolke.</title>
+            <author>Browne, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77666</idno>
+            <idno type="STC">Wing B5107</idno>
+            <idno type="STC">Thomason E122_22</idno>
+            <idno type="STC">ESTC R19105</idno>
+            <idno type="EEBO-CITATION">99860574</idno>
+            <idno type="PROQUEST">99860574</idno>
+            <idno type="VID">112697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112697)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir James Cambels Clarks disaster, by making books, shewing that lying and scandalous pamphlets against the King and Parliament are in great estimation, but bookes of learning and religion little regarded. Exemplified in a compendious letter to Iohn Philpond in Suffolke.</title>
+                  <author>Browne, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the climacterian yeere, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: "Edward Browne".</note>
+                  <note>Annotation on Thomason copy: "Octob: 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cambell, James, --  Sir, 1570-1642.</term>
+               <term>Publishers and publishing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112697:1" rendition="simple:additions"/>
+            <p>SIR JAMES CAMBELS Clarks DISASTER, BY MAKING BOOKS, Shewing that lying and ſcandalous pamphlets againſt King and Parliament are in great eſtimation, but Bookes of learning and Religion little regarded.</p>
+            <p>Exemplified In a Compendious Letter To <hi>Iohn Philpond</hi> in <hi>Suffolke.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Climacterian yeere, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:112697:2"/>
+            <head>Sir Iames Cambels Clarkes DISASTER.</head>
+            <opener>
+               <salute>Loving brother.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am glad to heare of your welfare, and doe not a little rejoyce, that your letter hath given me a happy oportunity to unload the <hi>burden</hi> of my diſtracted minde, In that you deſire to heare of my trade and imployment, But for what reaſon you deſire to know this I will not now inquire, for whether it be, that you heare of a place you think I may be capable of at <hi>Ipſwich</hi> neere you (If I were deſtitute) or whether it be out of your kind reſpects towards me to rejoyce with me in my hapineſſe as <hi>fellow ſervants <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught to doe,</hi> or for what cauſe ſoever elſe, It is not materiall, for you know that our late Maſter, Sir <hi>Iames Cambell</hi> brought me up to no Manuall trade, But what <hi>Gods Providence,</hi> his goodneſſe and my endeavours led me into, and that was to be his Clarke as he was a Ju<g ref="char:EOLhyphen"/>ſtice of Peace, which you know was a happy deſigne, and proved very beneficiall, for ſurely I thinke it was God who put that motion into my minde, and gave ſtrength to my weake abilities to performe what<g ref="char:EOLhyphen"/>ſoever I tooke in hand againſt potent oppoſitions. And I doe likewiſe humbly acknowledge. It was my <hi>Maſters goodneſſe</hi> to accept of my endeavours, and my Ladies kindneſſe to ſolicite and alure him, <hi>who of himelfe was willing to doe me good even to the day of his death, as it is well knowne.</hi> But my <hi>Booke-making</hi> whihc I learned of my ſelfe, againſt the counſell, and adviſe of my friends, proved as unhappy, and much
+<pb n="3" facs="tcp:112697:2"/> more prejudiciall then my <hi>Clarkeſhip</hi> was advantagious. Yet this uſe I will make of it. That God knowing the promptitude of my nature to Pride, Covetouſnes, and ſelfe conceit, to excerciſe my humility, pa<g ref="char:EOLhyphen"/>tience, and con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entation, inſted of credit and profit, which I expected by my labours, ſent me contempt, and diſdaine from them whom I looked for favour and reſpect; and ſo many loſſes, That I know not how to numerate them. For firſt I loſt <hi>Pretious time</hi> which ſome ſaid I might have ſpent much better. Secondly, I loſt my <hi>Love</hi> who is l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely married to another, But whether he was ſo <hi>Eager</hi> to have her for <hi>money,</hi> beauty or vertuous qualities he knowes beſt, and you may gueſſe. And laſt of all which grieves me moſt of all, is the loſſe of <hi>mo<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi> For my <hi>Time,</hi> notwithſtanding their ſayings, I might have ſpent much worſe then in ſuch labourious and pious actions, tending to the glory of God, good of my Neighbours, joy and comfort of my owne heart; And my <hi>Love</hi> may be aſwell loſt as found for ought I know. But <hi>money</hi> as the times are now is a matter of great conſequence, and very hard to come by when it is departed from us. Therfore I hope you will not blame me, If I complaine that I have loſt at the leaſt 20 l. out of my owne ſtocke in being at the ſole charge to print my Annuall World, ſacred Poems Star, Meteor, and Patterne of Juſtice and mercy. Secondly, I believe if I had ſurceaſed from printing Bookes my Maſter would have bequeathed me 200. l. As appeares by a note found neere his will made in <hi>September</hi> 1641. And laſt of all I know not what I have loſt out of my friends good will, for ſince I have printed, and pub<g ref="char:EOLhyphen"/>liſhed my <hi>Paterne of Iuſtice and mercy with my Meteor and Star,</hi> ſome looke upon me very ſtrangly. But yet I hope that the worſhipfull ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cutors as they are Judiciouſly charitable, and nobly gener<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us, ſo they will goe forward as they have begun in the execution of this famous Teſtament, with ſuch an unanimous cherefulneſſe that they need neither care nor feare though their actions were as apparent as the <hi>Snn-beams</hi> conſpicuous in the view of all, which would be a <hi>rare quality in the Executors of dead mens wills,</hi> And as they have made uſe of my en<g ref="char:EOLhyphen"/>deavours in the moſt troubleſome buſineſſe, ſo they will not utterly caſt me out of their favour till the overplus of Sir <hi>Iames</hi> his eſtate be disburſed, notwithſtanding, that <hi>malicious detractor</hi> (you know whom I meane) hath his name entred into their tripartite Indenture of Covenants as their caſhier on purpoſe to defeate me. But I have of late given him ſuch a <hi>bitter pill,</hi> which I hope will ſo clarifie his tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bulent humour that he ſhall not be able to wrong me. Therefore
+<pb n="4" facs="tcp:112697:3"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etting him alone <hi>To teach his Cat ſpeake better language then her Ma<g ref="char:EOLhyphen"/>ſter.</hi> You may ceaſe to wonder that theſe things have diſtracted my minde, when you doe ſeriouſly conſider that there is a <hi>univerſall mad<g ref="char:EOLhyphen"/>neſſe</hi> over the whole World, cauſed almoſt for as frivolous occaſions as my <hi>Booke-making.</hi> For ſome are ſo ſevere againſt <hi>Popery</hi> that they ſeeke to overthrow all good order and decency, eſteeming the houſe of God no better then a barne or ſtable, ſo that inſted of ſincere <hi>devotion</hi> they endeavor to ſet up abhominable <hi>Prophaneſſe;</hi> o hers a<g ref="char:EOLhyphen"/>gaine doe ſo magnifie ceremonies, and outward worſhip, that they would if they could put downe all preaching the word of God, and inſted of good ſound Doctrine uphold formality, ſuperſtition, and Idolatry. And thoſe are the things that makes Nation to ariſe a<g ref="char:EOLhyphen"/>gainſt Nation, and Kingdome againſt Kingdome now in theſe our dayes <hi>upon whom the ends of the World are come;</hi> for you ſhall hardly finde two in one houſe of one minde, for either the Father is againſt the Son or the Son againſt the Father, Brother againſt brother or Ser<g ref="char:EOLhyphen"/>vant againſt Servant, and all againſt <hi>Supreame authority</hi> both in the Church and ſtate, And what ever others thinke to be the reaſon of theſe diſtractions, my weake judgement is, that it is chiefely for our pride and ſelfe conceit, though I will not exclude other ſins; for we are ſo glutted with the heavenly <hi>Manna</hi> of Divine Doct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine, that now every boy or ignorant tradeſman, that can reade his hornebooke or wr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te a ſcribbling character, aſſumes to himſelfe a ſpirit of <hi>Revelati<g ref="char:EOLhyphen"/>on</hi> far greater then the Apoſtles of our bleſſed Saviour, not that I doe diſapprove any man woman or child, even the meaneſt capacities, to reade, and ſearch the Scripture, for I acknowledge my ſelfe to be no Scholer, Therefore let them be warned by me to take heed how they meddle with things above their capacities, leſt they receive a worſer puniſhment then I have for <hi>Booke-making:</hi> But yet let them learne of me to honour learning, and men of rare parts as they are men, though in rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gion Papiſts, Jewes, or Turkes, and much more if they beare the profeſſion of the true Proteſtant Religion; and not for the infirmities of ſome few to vilifie the perſons, and deſpiſe the holy functions of many grave excellent learned men, whoſe ſhooe latchet they are unworthy to unlooſe: As it is now too common among us. And which is worſt of all they are upheld, and maintained by a factious company, that you may better, and with leſſe danger ſpeake treaſon, and whiſper rebellion againſt the ſacred perſon of the Kings Majeſty, and his regall authority, then againſt ſuch who inſteed of
+<pb n="5" facs="tcp:112697:3"/> ſound Doctrine, for their owne applauſe, to ingratiate themſelves in<g ref="char:EOLhyphen"/>to the good opinion of a confuſed multitude, preach ſedition, and facti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and under pretence of long prayers delude ſimple people, and I feare in time will devoure Widowes houſes, If their ſpreading grouth be not timely cropt by authority, for they are already very ſtately and imperious, And it is to be feared theſe things will breed confuſion both in Church and Common-Wealth<g ref="char:punc">▪</g> but I hope when the <hi>head</hi> ſhall be united to the <hi>body,</hi> and when there ſhall be a right underſtanding be<g ref="char:EOLhyphen"/>tween our <hi>Gratious Soveraigne,</hi> and his <hi>Two houſes of Parliament,</hi> there will be a thorow reformation of all things: And that ſuch a bleſſed Union may ſpeedily be accompliſhed, let you and I and all people pray God to divert thoſe judgments from us which our ſinnes have deſerved, and continue his mercies to us eſpecially the free preaching of the Goſpell by able and ſincere diſpenſors of the ſame, That <hi>pure learning</hi> may ſpring up in every Congregation as a Chriſtall River, and <hi>ſaving knowledge</hi> like a mighty ſtreame to make glad and refreſh all barren places in this <hi>Iſland,</hi> that ſo righteouſneſſe may flouriſh in our dayes, and peace ſo long as the Sun and Moone endureth. But this hath almoſt put me quite out of my intended diſcourſe, which was to ſhew you my unfortunate ſucceſſe by <hi>Booke-making,</hi> for I like that over adventurous ſonne of <hi>Sol,</hi> and <hi>Clymene</hi> have almoſt ſet the frame of Heaven in a combuſtion, and ſtated the <hi>Sun Moone and Starres</hi> upon ſuch improper objects as may cauſe amaſement to the beholders; Therefore I acknowledge my ſelfe worthily puniſhed for my <hi>Miſcroſ<g ref="char:EOLhyphen"/>mus,</hi> I meane my Books which I compared to a <hi>little World</hi> ſeemes to be at the period as was fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e propheſyed by the truth it ſelfe of this <hi>Vaſt univerſe, Marke 13. 24. &amp; 25. verſe,</hi> for my <hi>Sunne</hi> is darkened, and my <hi>Moone</hi> gives but little light, my <hi>Star</hi> is falne from the Heaven wherein it was fixed, and the powers of my <hi>Heavenly meditations</hi> are ſhaken and eſteemed of little worth; in plainer tearmes thus. You may perceive my <hi>Annuall World</hi> I compared to the <hi>Sunne:</hi> And becauſe it is compoſed of briefe Meditations upon thoſe dayes, that commemo<g ref="char:EOLhyphen"/>rate the meritorious actions of our <hi>Bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed Saviour,</hi> the lives and deathes of his <hi>Virgin Mother,</hi> and <hi>eminent Diſciples,</hi> according to the celebration thereof ſet downe in the booke of <hi>Common Prayer,</hi> which ſome eſteeme the Engliſh maſſe booke, Therefore ſayes an new upſtart <hi>Phariſaicall ſect,</hi> It is <hi>papiſticall</hi> and to be caſt away as an <hi>Idoll.</hi> Secondly, my <hi>Sacred poems</hi> I compared to the <hi>Moone,</hi> and becauſe it is illuſtrated with the helpe of ſome learned Authors, this <hi>Hypocriticall
+<pb n="6" facs="tcp:112697:4"/> ſocieity,</hi> ſay it is <hi>light</hi> with <hi>darkeneſſe, holy</hi> things and vaine unprofit<g ref="char:EOLhyphen"/>able things mixed which are altogether <hi>inconſiſtent,</hi> And this <hi>dead fly</hi> hath made all my bookes of <hi>oyntment unſavory,</hi> for theſe kind of people deride, and contemne all learning that is not according to their hu<g ref="char:EOLhyphen"/>mors, and had rather <hi>Sleepe</hi> in the Church two or three houres <hi>to heare an extemporary nonſenſitive vaine babling prayer,</hi> ſuch as many of their holy brethrens are, whoſe vaine <hi>Tautologies</hi> and <hi>Hyperbolicall</hi> tearmes, both publique and private, would make a prophane man laugh, but a religious man weepe, then continue one hower in joynt prayer with the Congregation by <hi>a well compoſed forme</hi> intermingled with reading Chapters, and ſinging of Pſalmes, which me thinkes is a hea<g ref="char:EOLhyphen"/>venly harmony; But theſe folke would have all things done in ſpirit, yet their actions ſhew that they are meere fleſh, except it be in gadding to Sermons to be reputed holy, for obſerve who are more proude and ſtately, who more deceitfull and covetous, and who more incon<g ref="char:EOLhyphen"/>tinent and malicious then this my malignant party, who to magnify their owne worth, to ingratiate themſelves into great mens favour for popular applauſe, and to uphold &amp; to boulſter their pride, covetouſneſſe and baſe lacivious meetings in private Conventicles, care not how they diſparage the induſtrious labours of others, which they are not able with all their pretended ſanctity to mend. But I hope theſe hypocriticall <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und-heads</hi> (of late ſo called) but under that tearme I would not involve honeſt judicious round dealing men, ſuch who walke within compaſſe of their owne circumference, whoſe actions as lines are drawne from the Word of God their center, but ſuch who are wiſe in their owne conceite, whoſe minds like footeballs or bubbles of Sope in the Aire, are throwne and toſſed too and fro with every winde of Doctrine, ſuch who under pretence of Religion de<g ref="char:EOLhyphen"/>ride and contemne all good order in Church and Common-Wealth, and doe ſo labour to overthrow the known <hi>Monarchicall,</hi> and <hi>Hierarchi<g ref="char:EOLhyphen"/>call</hi> ſtate of the Kingdome that they have almoſt brought up an <hi>A<g ref="char:EOLhyphen"/>narchicall</hi> government, ſhall ſhortly receive a juſt reward for their demerits aſwell as thoſe that labour to bring up a tyrannicall Juriſ<g ref="char:EOLhyphen"/>diction in the eſtabliſhed government, which they likewiſe doe now endeavor to uphold, and would attaine unto if all power were in their owne hands; and I feare <hi>worſe.</hi> But letting them paſſe in the third place you may conſider how my <hi>Star</hi> is fallen from the Heaven wherein it was fixed, for like fooliſh <hi>Iearus,</hi> I have attempted with the waxen wings of a vaine hope and (as you may thinke) an unad<g ref="char:EOLhyphen"/>viſed
+<pb n="7" facs="tcp:112697:4"/> pride to aſcend, and fix my ſelfe in a <hi>bright</hi> firmament of favour am caſt downe into an O<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an of contempt and diſdaine, according to theſe Verſes.</p>
+            <lg>
+               <l>In theſe my Bookes of fruitleſſe proſe and rime,</l>
+               <l>You may behold a picture of this time</l>
+               <l>Wherein we live, for firſt from low degree</l>
+               <l>My Maſters favour had exalted me,</l>
+               <l>But my aſpiring minde did higher fly</l>
+               <l>To things above my reach preſumptuouſly,</l>
+               <l>For craft and cunning was in <hi>ſharp'nd bright</hi>
+               </l>
+               <l>Who for my labour paid me fell deſpite,</l>
+               <l>Therefore pray ceaſe to wonder that my fall</l>
+               <l>Is now ſo low, for I aſſure thee all,</l>
+               <l>That thinke by pride, ſelfe-love, and vaine conceite,</l>
+               <l>To make themſelves moſt famous and moſt great,</l>
+               <l>Shall be defeated in their enterpriſe</l>
+               <l>As tis apparent in all peoples eyes,</l>
+               <l>By <hi>Strafford, Biſhops</hi> and <hi>Gentility</hi>
+               </l>
+               <l>Whoſe falls as low as they aſpired high.</l>
+               <l>And I my ſelfe have had a wofull fall,</l>
+               <l>In Credit, profit, yea and Bookes and all.</l>
+            </lg>
+            <p>Fourthly and laſtly, becauſe I did too boldly frame a flaming <hi>Me<g ref="char:EOLhyphen"/>teor,</hi> I feared ſome tempeſtuous accident to fall upon me according to the malignant aſpect of ſome fiery ſpirits: And therefore leſt ſome <hi>ſharpe</hi> witted Orator ſhould by eloquent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hethorique ſuch as <hi>Lawiers uſe,</hi> or that <hi>flattering Sycophant,</hi> ſhould by colloguing inſinuation, or ſome <hi>ſpirituall minded body</hi> ſhould in <hi>Hiprocriticall ſincerity</hi> overſway my judicious loving friends good opinion of me and of my endeavors, I did lately joyne all my <hi>labours of love together in one</hi> volume with marginall notes, and annotations, and offered them to the preſſe, be<g ref="char:EOLhyphen"/>cauſe I am unwilling to be condemned by a partiall jury ſuch as thoſe three above ſpecified. But no executioner I meane a Stationer or Printer had the heart to undertake the worke, and in excuſe thereof told mee, That ſuch a book as that of thirty or forty ſheets of paper is not like to ſell in this age were the matter never ſo good, but if it had beene a lying and ſcandalus pamphlet of a ſheete of paper that could produce a Scripture text, or ſome reviling tearmes againſt Monarchy, and Hie<g ref="char:EOLhyphen"/>rarchy
+<pb n="8" facs="tcp:112697:5"/> to uphold an Anarchy, they would have embraced my profer, for it is like ſuch would have proved vendable ware, if I could obtain an <hi>Order</hi> or a <hi>Vote</hi> upon it: Therefore I am inforced to keepe thoſe my labours by me for 30 or 40. l. is more money now then I can well ſpare upon ſuch a dead commodity. Thus have I briefely declared my diſ<g ref="char:EOLhyphen"/>aſter by making bookes, yet I hope this laſt booke of <hi>Iuſtice and mer<g ref="char:EOLhyphen"/>cy</hi> will by ſuch time this Kingdome is in a ſettled peace, cauſe all the reſt of my workes to caſt forth a little glimmering light to the praiſe and Glory of God, good of my Neighbour, and joy and comfort of my owne ſoule at the houre of death in the day of judgement, and all the dayes of my life. Now for my Trade and Imployment as I have continued with my Lady 18 yeares and upwards, ſo I doe intend (God willing) to remaine with her one or two yeares longer at the leaſt except I be by force expulſed, and then you ſhall heare my mourn<g ref="char:EOLhyphen"/>full lamentation, in the meane time I thanke you for your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inde re<g ref="char:EOLhyphen"/>membrance of me, in retribution whereof, I commend my due reſpects unto you and will never ceaſe to be</p>
+            <closer>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>7. Octob. 1642.</date>
+               </dateline>
+               <signed>Your Aſſured Friend and Chriſtian Brother <hi>Edward Browne.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
